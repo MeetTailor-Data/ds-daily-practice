@@ -28,6 +28,7 @@ each under 20 lines of code with at least one visualization.
 | Day | Project Name | Chart Type |
 |-----|--------------|------------|
 | 01  | Age Distribution of Students | Histogram |
+| 02  | Monthly Expenses Tracker | Line Chart |
 
 ---
 
@@ -37,6 +38,8 @@ each under 20 lines of code with at least one visualization.
 │
 
 ├── day01_age_distribution.py
+
+├── day02_monthly_expenses.py
 
 │
 
@@ -60,7 +63,7 @@ python day01_age_distribution.py
 ## Progress Tracker
 
 - [x] Day 01
-- [ ] Day 02
+- [x] Day 02
 - [ ] Day 03
 - [ ] Day 04
 - [ ] Day 05
