@@ -29,6 +29,7 @@ each under 20 lines of code with at least one visualization.
 |-----|--------------|------------|
 | 01  | Age Distribution of Students | Histogram |
 | 02  | Monthly Expenses Tracker | Line Chart |
+| 03  | Favorite Fruits Survey | Pie Chart |
 
 ---
 
@@ -40,6 +41,8 @@ each under 20 lines of code with at least one visualization.
 ├── day01_age_distribution.py
 
 ├── day02_monthly_expenses.py
+
+├── day03_favorite_fruits.py
 
 │
 
@@ -64,7 +67,7 @@ python day01_age_distribution.py
 
 - [x] Day 01
 - [x] Day 02
-- [ ] Day 03
+- [x] Day 03
 - [ ] Day 04
 - [ ] Day 05
 - [ ] Day 06
