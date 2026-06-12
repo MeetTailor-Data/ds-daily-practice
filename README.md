@@ -31,7 +31,7 @@ each under 20 lines of code with at least one visualization.
 | 02  | Monthly Expenses Tracker | Line Chart |
 | 03  | Favorite Fruits Survey | Pie Chart |
 | 04  | Student Marks Bar Chart | Bar Chart |
-
+| 05  | Temperature of a Week | Line Chart |
 ---
 
 ## Folder Structure
@@ -46,6 +46,8 @@ each under 20 lines of code with at least one visualization.
 ├── day03_favorite_fruits.py
 
 ├── day04_student_marks.py
+
+├── day05_weekly_temperature.py
 
 │
 
@@ -72,7 +74,7 @@ python day01_age_distribution.py
 - [x] Day 02
 - [x] Day 03
 - [x] Day 04
-- [ ] Day 05
+- [x] Day 05
 - [ ] Day 06
 - [ ] Day 07
 - [ ] Day 08
