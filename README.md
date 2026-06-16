@@ -34,6 +34,7 @@ each under 20 lines of code with at least one visualization.
 | 05  | Temperature of a Week | Line Chart |
 | 06  | Runs Scored by Batsmen | Horizontal Bar |
 | 07  | Correlation Heatmap | Heatmap |
+| 08  | Random Walk Simulation | Line Chart |
 
 ---
 
@@ -55,6 +56,8 @@ each under 20 lines of code with at least one visualization.
 ├── day06_ipl_runs.py
 
 ├── day07_correlation_heatmap.py
+
+├── day08_random_walk.py
 
 │
 
