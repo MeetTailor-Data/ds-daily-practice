@@ -35,6 +35,8 @@ each under 20 lines of code with at least one visualization.
 | 06  | Runs Scored by Batsmen | Horizontal Bar |
 | 07  | Correlation Heatmap | Heatmap |
 | 08  | Random Walk Simulation | Line Chart |
+| 09  | Phone Usage Per Day | Bar Chart |
+
 
 ---
 
@@ -58,6 +60,8 @@ each under 20 lines of code with at least one visualization.
 ├── day07_correlation_heatmap.py
 
 ├── day08_random_walk.py
+
+├── day09_phone_usage.py
 
 │
 
