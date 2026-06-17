@@ -92,7 +92,7 @@ python day01_age_distribution.py
 - [x] Day 06
 - [x] Day 07
 - [x] Day 08
-- [ ] Day 09
+- [x] Day 09
 - [ ] Day 10
 - [ ] Day 11
 - [ ] Day 12
