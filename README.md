@@ -37,6 +37,7 @@ each under 20 lines of code with at least one visualization.
 | 08  | Random Walk Simulation | Line Chart |
 | 09  | Phone Usage Per Day | Bar Chart |
 | 10  | Height vs Weight | Scatter Plot |
+| 11  | IPL Team Win Count | Bar Chart |
 
 
 ---
@@ -65,6 +66,8 @@ each under 20 lines of code with at least one visualization.
 ├── day09_phone_usage.py
 
 ├── day10_height_weight.py
+
+
 
 │
 
