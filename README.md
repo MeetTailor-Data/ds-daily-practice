@@ -38,6 +38,7 @@ each under 20 lines of code with at least one visualization.
 | 09  | Phone Usage Per Day | Bar Chart |
 | 10  | Height vs Weight | Scatter Plot |
 | 11  | IPL Team Win Count | Bar Chart |
+| 12  | Sleep Hours Distribution | Histogram |
 
 
 ---
