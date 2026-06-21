@@ -39,6 +39,7 @@ each under 20 lines of code with at least one visualization.
 | 10  | Height vs Weight | Scatter Plot |
 | 11  | IPL Team Win Count | Bar Chart |
 | 12  | Sleep Hours Distribution | Histogram |
+| 13  | Sales Growth Line Chart | Line Chart |
 
 
 ---
