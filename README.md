@@ -73,6 +73,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day12_sleep_hours.py
 
+├── day13_sales_growth.py
+
 │
 
 └── README.md
