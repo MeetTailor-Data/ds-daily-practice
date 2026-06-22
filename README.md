@@ -75,6 +75,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day13_sales_growth.py
 
+├── day14_subject_marks.py
+
 │
 
 └── README.md
