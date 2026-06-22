@@ -40,6 +40,7 @@ each under 20 lines of code with at least one visualization.
 | 11  | IPL Team Win Count | Bar Chart |
 | 12  | Sleep Hours Distribution | Histogram |
 | 13  | Sales Growth Line Chart | Line Chart |
+| 14  | Subject-wise Average Marks | Bar Chart |
 
 
 ---
