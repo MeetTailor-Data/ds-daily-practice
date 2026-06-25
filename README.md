@@ -86,6 +86,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day16_study_vs_score.py
 
+├── day17_youtube_views.py
+
 │
 
 └── README.md
