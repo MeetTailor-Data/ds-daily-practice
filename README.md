@@ -43,6 +43,7 @@ each under 20 lines of code with at least one visualization.
 | 14  | Subject-wise Average Marks | Bar Chart |
 | 15  | Population of Top 5 Indian Cities | Bar Chart |
 | 16  | Exam Score vs Study Hours | Scatter Plot |
+| 17  | YouTube Views Over Months | Area Chart |
 
 
 
