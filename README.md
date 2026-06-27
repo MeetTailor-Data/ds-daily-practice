@@ -45,6 +45,7 @@ each under 20 lines of code with at least one visualization.
 | 16  | Exam Score vs Study Hours | Scatter Plot |
 | 17  | YouTube Views Over Months | Area Chart |
 | 18  | Comparing Two Students Marks | Grouped Bar |
+| 19  | Budget Allocation | Pie Chart |
 
 
 
