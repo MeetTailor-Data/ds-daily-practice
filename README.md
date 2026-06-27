@@ -94,6 +94,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day19_budget_allocation.py
 
+├── day20_normal_distribution.py
+
 │
 
 └── README.md
