@@ -46,6 +46,7 @@ each under 20 lines of code with at least one visualization.
 | 17  | YouTube Views Over Months | Area Chart |
 | 18  | Comparing Two Students Marks | Grouped Bar |
 | 19  | Budget Allocation | Pie Chart |
+| 20  | Normal Distribution Curve | Line Chart |
 
 
 
