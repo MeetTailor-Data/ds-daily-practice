@@ -98,6 +98,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day20_normal_distribution.py
 
+├── day21_coin_toss.py
+
 │
 
 └── README.md
