@@ -47,6 +47,7 @@ each under 20 lines of code with at least one visualization.
 | 18  | Comparing Two Students Marks | Grouped Bar |
 | 19  | Budget Allocation | Pie Chart |
 | 20  | Normal Distribution Curve | Line Chart |
+| 21  | Coin Toss Simulation | Bar Chart |
 
 
 
