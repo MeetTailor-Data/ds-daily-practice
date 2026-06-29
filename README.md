@@ -48,6 +48,7 @@ each under 20 lines of code with at least one visualization.
 | 19  | Budget Allocation | Pie Chart |
 | 20  | Normal Distribution Curve | Line Chart |
 | 21  | Coin Toss Simulation | Bar Chart |
+| 22  | Word Count in a Sentence | Bar Chart |
 
 
 
