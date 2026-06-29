@@ -100,6 +100,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day21_coin_toss.py
 
+├── day22_word_count.py
+
 │
 
 └── README.md
