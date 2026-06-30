@@ -49,6 +49,7 @@ each under 20 lines of code with at least one visualization.
 | 20  | Normal Distribution Curve | Line Chart |
 | 21  | Coin Toss Simulation | Bar Chart |
 | 22  | Word Count in a Sentence | Bar Chart |
+| 23  | GDP Growth of India | Line Chart |
 
 
 
