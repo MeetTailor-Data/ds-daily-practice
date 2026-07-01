@@ -106,6 +106,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day23_gdp_growth.py
 
+├── day24_dice_roll.py
+
 │
 
 └── README.md
