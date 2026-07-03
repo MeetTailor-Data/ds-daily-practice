@@ -113,6 +113,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day25_programming_languages.py
 
+├── day26_stock_price.py
+
 │
 
 └── README.md
