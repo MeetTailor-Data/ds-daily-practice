@@ -115,6 +115,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day26_stock_price.py
 
+├── day27_calories_burned.py
+
 │
 
 └── README.md
