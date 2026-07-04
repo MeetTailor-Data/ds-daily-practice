@@ -53,6 +53,7 @@ each under 20 lines of code with at least one visualization.
 | 24  | Dice Roll Simulation | Histogram |
 | 25  | Top Programming Languages | Horizontal Bar |
 | 26  | Stock Price Simulation | Line Chart |
+| 27  | Calories Burned Per Activity | Bar Chart |
 
 
 
