@@ -119,6 +119,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day27_calories_burned.py
 
+├── day28_rainfall_data.py
+
 │
 
 └── README.md
