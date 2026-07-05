@@ -54,6 +54,7 @@ each under 20 lines of code with at least one visualization.
 | 25  | Top Programming Languages | Horizontal Bar |
 | 26  | Stock Price Simulation | Line Chart |
 | 27  | Calories Burned Per Activity | Bar Chart |
+| 28  | Rainfall Data | Area Chart |
 
 
 
