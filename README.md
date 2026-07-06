@@ -55,6 +55,7 @@ each under 20 lines of code with at least one visualization.
 | 26  | Stock Price Simulation | Line Chart |
 | 27  | Calories Burned Per Activity | Bar Chart |
 | 28  | Rainfall Data | Area Chart |
+| 29  | Grade Distribution | Pie Chart |
 
 
 
