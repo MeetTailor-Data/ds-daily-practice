@@ -121,6 +121,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day28_rainfall_data.py
 
+├── day29_grade_distribution.py
+
 │
 
 └── README.md
