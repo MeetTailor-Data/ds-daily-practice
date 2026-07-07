@@ -62,76 +62,43 @@ each under 20 lines of code with at least one visualization.
 
 ---
 
-## Folder Structure
+## Project Structure
+
+```text
 30-days-ds-projects/
-
 │
-
 ├── day01_age_distribution.py
-
 ├── day02_monthly_expenses.py
-
 ├── day03_favorite_fruits.py
-
 ├── day04_student_marks.py
-
 ├── day05_weekly_temperature.py
-
 ├── day06_ipl_runs.py
-
 ├── day07_correlation_heatmap.py
-
 ├── day08_random_walk.py
-
 ├── day09_phone_usage.py
-
 ├── day10_height_weight.py
-
 ├── day11_ipl_wins.py
-
 ├── day12_sleep_hours.py
-
 ├── day13_sales_growth.py
-
 ├── day14_subject_marks.py
-
 ├── day15_city_population.py
-
 ├── day16_study_vs_score.py
-
 ├── day17_youtube_views.py
-
 ├── day18_marks_comparison.py
-
 ├── day19_budget_allocation.py
-
 ├── day20_normal_distribution.py
-
 ├── day21_coin_toss.py
-
 ├── day22_word_count.py
-
 ├── day23_gdp_growth.py
-
 ├── day24_dice_roll.py
-
 ├── day25_programming_languages.py
-
 ├── day26_stock_price.py
-
 ├── day27_calories_burned.py
-
 ├── day28_rainfall_data.py
-
 ├── day29_grade_distribution.py
-
 ├── day30_social_media_time.py
-
-│
-
 └── README.md
-
----
+```
 
 ## How to Run
 
