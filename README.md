@@ -56,6 +56,7 @@ each under 20 lines of code with at least one visualization.
 | 27  | Calories Burned Per Activity | Bar Chart |
 | 28  | Rainfall Data | Area Chart |
 | 29  | Grade Distribution | Pie Chart |
+| 30  | Social Media Time Comparison | Grouped Bar |
 
 
 
