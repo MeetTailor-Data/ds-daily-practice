@@ -125,6 +125,8 @@ each under 20 lines of code with at least one visualization.
 
 ├── day29_grade_distribution.py
 
+├── day30_social_media_time.py
+
 │
 
 └── README.md
