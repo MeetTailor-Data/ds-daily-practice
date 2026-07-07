@@ -144,7 +144,7 @@ python day01_age_distribution.py
 - [x] Day 27
 - [x] Day 28
 - [x] Day 29
-- [ ] Day 30
+- [x] Day 30
 
 ---
 
